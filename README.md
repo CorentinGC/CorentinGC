@@ -14,8 +14,8 @@
    <p align="center">
       <a href="https://reactjs.org/" target="_blank"><img alt="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" /></a>
       <a href="https://redux.js.org/" target="_blank"><img alt="ReduxJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="50" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img alt="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="50" /></a>   
-      <a href="https://socket.io/" target="_blank"><img alt="SocketIO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" height="50" /></a> 
+      <a href="https://nextjs.org/" target="_blank"><img alt="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="50" /></a>   
+      <a href="https://socket.io/" target="_blank"><img alt="SocketIO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="50" /></a> 
    <p>
 
    <p align="center">
@@ -24,7 +24,7 @@
    </p>
 
    <p align="center">
-      <a href="https://cakephp.org/" target="_blank"><img alt="CakePHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-plain-wordmark.svg" height="50" /></a>
+      <a href="https://cakephp.org/" target="_blank"><img alt="CakePHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-plain.svg" height="50" /></a>
       <a href="https://wordpress.org/" target="_blank"><img alt="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="50" /></a>
    </p>
 
@@ -57,7 +57,7 @@
    <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" height="30" /></a>
  </p>
  <p align="center"> 
-    <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" height="50" /></a>
+    <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" height="50" /></a>
 
  </p>
 
@@ -67,7 +67,7 @@
    <img alt="OS X" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" />
    <img alt="Debian" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="40" />
    <img alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" />
-   <img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" width="40" />
+   <img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="40" />
    
  </p>
 
