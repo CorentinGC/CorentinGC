@@ -33,17 +33,19 @@ Un modèle sans cadre produit du **AI slop** : du code qui compile, qui a l'air 
 
 Ce filtre n'est pas un réglage d'outil, c'est **14 ans de terrain**. C'est précisément ce qui sépare une livraison robuste d'une démo qui s'écroule au premier vrai utilisateur.
 
-## 🎯 Ce que ça donne en pratique
+## 🎯 Ce que je livre
 
-Ces douze derniers mois, sur ce compte et en clientèle :
+L'essentiel de mon travail se fait sur des dépôts privés, sous accord de confidentialité. Dans les grandes lignes, ces douze derniers mois :
 
-| Domaine | Stack | Exemple |
-|---|---|---|
-| Web & SaaS | TypeScript, Next.js, Prisma | `attacheparisienne-website`, `rn-technoplus` |
-| Métier / ERP-GMAO | TypeScript, PostgreSQL | `masp-calendar` |
-| Natif macOS | Swift | `iota-tah-monitor` |
-| Infra & embarqué | Shell, Docker, Go | `camera-masp`, `hrt-compose` |
-| Web3 | Solidity | smart contracts, audits |
+| Domaine | Stack typique |
+|---|---|
+| Applications métier, ERP et GMAO | TypeScript, PostgreSQL, Prisma |
+| Plateformes web et SaaS | TypeScript, Next.js, API REST et temps réel |
+| Applications natives et mobiles | Swift, React Native |
+| Infrastructure, supervision et embarqué | Shell, Docker, Go, Linux |
+| Web3 | Solidity, smart contracts et audits |
+
+Gestion de production, planification d'ateliers, portails clients, automatisation de chaînes de traitement, affichage industriel sur site, outillage interne. Des systèmes utilisés tous les jours par des équipes qui n'ont pas le luxe d'une panne.
 
 Le point commun n'est pas la stack, c'est la méthode.
 
