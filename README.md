@@ -12,18 +12,26 @@ Premiers commits en **PHP** et **JavaScript**, à une époque où on livrait par
 
 Ce parcours n'a pas disparu — il est devenu le socle. Savoir ce qu'est une transaction, un index, un reverse proxy ou un rollback, ça ne se génère pas.
 
-## ⚙️ Comment je travaille aujourd'hui
+## 🎼 Mon rôle aujourd'hui
 
-Le langage n'est plus le facteur limitant. Ma valeur ajoutée a migré d'un cran plus haut : **architecture, spécification, revue, et le harness qui encadre la génération**.
+**Architecte de projet et tech lead.** Je définis la cible, je découpe, je fixe les contraintes — et une armée d'agents IA exécute sous ma vision.
 
-Concrètement :
+Ce n'est pas un changement de métier, c'est un changement d'échelle. Les décisions qui comptent restent les miennes : modèle de données, frontières de services, stratégie de cache, gestion d'erreur, sécurité. Les agents écrivent le code qui découle de ces décisions, dans le langage qu'impose le contexte.
 
-- **Modèles** — Claude (Anthropic) et GPT, choisis selon la tâche : raisonnement long, refactor massif, ou itération rapide.
-- **Harness** — agents outillés, contexte projet versionné, règles de code explicites, garde-fous automatiques. Le modèle ne part jamais d'une page blanche ni sans contrainte.
-- **Vérification** — tests d'abord, CI qui bloque, revue humaine sur tout ce qui touche la prod. Rien ne part parce que « ça a l'air bon ».
-- **Traçabilité** — décisions documentées, mémoire projet, historique lisible. Un système qu'on ne peut pas reprendre dans six mois n'est pas livré.
+Le langage n'est plus le facteur limitant. Le jugement, si.
 
-Résultat : je passe d'une idée à un service déployé et supervisé, **dans le langage qu'impose le contexte** — pas dans celui que je maîtrisais le mieux il y a dix ans.
+## ⚙️ Le harness
+
+Un modèle sans cadre produit du **AI slop** : du code qui compile, qui a l'air juste, et qui casse en production. Tout mon outillage existe pour rendre ça impossible.
+
+- **Tests complets, non négociables** — unitaires sur la logique métier, intégration sur les frontières réelles (base, API, file), **end-to-end** sur les parcours critiques. Écrits avant ou avec le code, jamais après coup pour faire joli.
+- **CI qui bloque** — lint, types, suite de tests, build. Rouge = rien ne part. Aucune exception, y compris pour moi.
+- **Contexte cadré** — spécifications versionnées, conventions explicites, architecture documentée. L'agent ne part jamais d'une page blanche ni sans contrainte.
+- **Patterns éprouvés** — je réutilise des solutions que j'ai déjà vues tenir sous charge, pas la dernière idée à la mode recrachée par un modèle.
+- **Revue humaine** — je lis tout ce qui touche la prod. Un diff que je ne peux pas expliquer ne passe pas.
+- **Traçabilité** — décisions documentées, historique lisible. Un système qu'on ne peut pas reprendre dans six mois n'est pas livré.
+
+Ce filtre n'est pas un réglage d'outil, c'est **14 ans de terrain**. C'est précisément ce qui sépare une livraison robuste d'une démo qui s'écroule au premier vrai utilisateur.
 
 ## 🎯 Ce que ça donne en pratique
 
@@ -37,7 +45,7 @@ Ces douze derniers mois, sur ce compte et en clientèle :
 | Infra & embarqué | Shell, Docker, Go | `camera-masp`, `hrt-compose` |
 | Web3 | Solidity | smart contracts, audits |
 
-Le point commun n'est pas la syntaxe, c'est la méthode.
+Le point commun n'est pas la stack, c'est la méthode.
 
 ---
 
